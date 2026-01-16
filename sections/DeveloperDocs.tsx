@@ -8,19 +8,19 @@ const DeveloperDocs: React.FC = () => {
       title: "Quickstart Guide",
       description: "Get up and running with Uplift in minutes. Deploy your first agent container.",
       icon: <TerminalIcon className="w-6 h-6" />,
-      url: "https://docs.operatoruplift.com/"
+      url: "https://help.operatoruplift.com/"
     },
     {
       title: "Core Concepts",
       description: "Deep dive into the architecture, session tokens, and security vaults.",
       icon: <KanbanIcon className="w-6 h-6" />,
-      url: "https://docs.operatoruplift.com/"
+      url: "https://help.operatoruplift.com/"
     },
     {
       title: "API Reference",
       description: "Complete reference for the Agent Store API and Runtime SDKs.",
       icon: <GlobeIcon className="w-6 h-6" />,
-      url: "https://docs.operatoruplift.com/"
+      url: "https://help.operatoruplift.com/"
     }
   ];
 

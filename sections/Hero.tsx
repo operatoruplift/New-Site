@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
 
           {/* Headline */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl tracking-tight text-white mb-8 leading-[1.05] animate-slide-up">
-            Install. Plug. Run.
+            Millions of Agents. One Voice.
 
           </h1>
 

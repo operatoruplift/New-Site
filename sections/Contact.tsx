@@ -40,16 +40,16 @@ const Contact: React.FC = () => {
     {
       id: 'email',
       title: 'Email',
-      description: 'dhruv@operatoruplift.com',
+      description: 'operatoruplift@gmail.com',
       icon: <MailIcon className="w-6 h-6" />,
-      url: 'mailto:dhruv@operatoruplift.com'
+      url: 'mailto:operatoruplift@gmail.com'
     },
     {
       id: 'meeting',
       title: 'Book a Meeting',
       description: 'Schedule a video call',
       icon: <CalendarIcon className="w-6 h-6" />,
-      url: 'https://calendly.com/dhruv-helloaven/30min'
+      url: 'https://cal.com/rvaclassic'
     },
     {
       id: 'twitter',
@@ -63,7 +63,7 @@ const Contact: React.FC = () => {
       title: 'Discord',
       description: 'Join our community',
       icon: <DiscordIcon className="w-6 h-6" />,
-      url: 'https://discord.gg/duvYhkW5'
+      url: 'https://discord.gg/eka7hqJcAY'
     },
     {
       id: 'linkedin',

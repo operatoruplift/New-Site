@@ -66,7 +66,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               <div className="flex flex-col space-y-4">
                 <h4 className="text-white font-medium text-lg mb-2">Resources</h4>
                 <a 
-                  href="https://docs.operatoruplift.com" 
+                  href="https://help.operatoruplift.com" 
                   target="_blank" 
                   rel="noreferrer" 
                   className="text-gray-500 hover:text-white transition-colors text-base"

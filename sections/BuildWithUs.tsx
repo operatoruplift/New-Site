@@ -34,7 +34,7 @@ const BuildWithUs: React.FC = () => {
             </h2>
 
             <a 
-              href="https://docs.operatoruplift.com" 
+              href="https://help.operatoruplift.com" 
               target="_blank" 
               rel="noreferrer"
               className="inline-flex items-center bg-[#1a1a1a] text-white px-6 py-3 rounded-sm text-xs font-bold tracking-widest uppercase hover:bg-primary transition-colors duration-300"

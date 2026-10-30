@@ -65,7 +65,7 @@ No later repository is named in this one's history. Operator Uplift today is com
 The site still installs and builds (checked on 30 October 2026 with Node 22).
 
 ```bash
-npm ci          # 68 packages from package-lock.json
+npm ci          # 71 packages from package-lock.json
 npm run dev     # http://localhost:3000, as set in vite.config.ts
 npm run build   # static build in dist/
 ```

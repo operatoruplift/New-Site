@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=050505" alt="Vite 6">
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=050505" alt="React 19">
 <img src="https://img.shields.io/badge/made_in-Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=050505" alt="Made in Google AI Studio">
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-6F6163?style=flat-square&labelColor=050505" alt="License: MIT"></a>
 
 <h3>An archived landing page from Operator Uplift's agent-platform phase.</h3>
 
@@ -93,6 +94,6 @@ The project was generated in Google AI Studio; [the AI Studio project](https://a
 
 <br>
 
-<p align="center"><sub>This repository has no license file.</sub></p>
+<p align="center"><sub>The code is MIT licensed (see <a href="LICENSE">LICENSE</a>).</sub></p>
 
 <p align="center"><sub>From <a href="https://rvaclassic.xyz">Matt Sim</a>, founder of <a href="https://operatoruplift.com">Operator Uplift</a>. More builds at <a href="https://github.com/operatoruplift">github.com/operatoruplift</a>. Want one built for your product? <a href="https://cal.com/rvaclassic/15min">Book a 15-minute call</a>.</sub></p>
